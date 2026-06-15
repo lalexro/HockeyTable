@@ -33,8 +33,7 @@ FORM teams 'Команды'
     PROPERTIES(t) NEWSESSION NEW, EDIT, DELETE
 
     LIST Team OBJECT t
-;q
-
+;
 
 NAVIGATOR {
     NEW teams;
