@@ -1,0 +1,16 @@
+15 июн. 2026 13:12:33,473 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 15:01:58,611 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 15:40:31,806 ERROR StartLogger - Exception while starting logics instance: [error]:
+	HockeyTable:100:1 number of actual property parameters (2) differs from number of named parameters (1: [game])
+Subsequent errors (if any) could not be found.
+15 июн. 2026 15:57:41,970 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 16:54:06,584 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 17:27:39,479 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 17:32:07,757 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 17:36:24,405 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 17:48:27,861 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 18:01:07,978 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 18:05:33,751 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 18:20:57,724 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 18:44:31,652 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+15 июн. 2026 18:55:49,017 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
